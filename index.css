@@ -1,0 +1,242 @@
+   * {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #b1afe8;
+  margin: 0;
+  padding: 30px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav a {
+  color: #170368;
+  text-decoration: none;
+}
+
+main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+
+.cabecalho1 {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.Yamaha{
+  background-color: rgb(5, 2, 75);
+  width: 220px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.img1 {
+  font-size: 55px;
+  background-color: rgb(5, 2, 75);
+  padding: 20px;
+}
+
+.card1 {
+  display: inline-block;
+  background-color: #8f8e8e;
+  color: rgb(16, 15, 15);
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: auto;
+}
+
+.card1{
+   /*desl. horizontal | desl. vertical | desfoque |cor**/
+  box-shadow:5px 5px 10px rgb(10, 0, 39) ;
+  
+}
+
+.card1{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.yamaha {
+  background-image: url("img/.Yamaha");
+}
+
+-----------------------------------------------------------------------------------------
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #b1afe8;
+  margin: 0;
+  padding: 30px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav a {
+  color: #170368;
+  text-decoration: none;
+}
+
+.cabecalho2 {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.Kawasaki {
+  background-color: rgb(5, 2, 75);
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.img2 {
+  font-size: 55px;
+  background-color:rgb(5, 2, 75);
+  padding: 20px;
+  
+
+}
+
+.card2 {
+  display: inline-block;
+  background-color: #8f8e8e;
+  color: rgb(16, 15, 15);
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: auto;
+}  
+
+.card2{
+   /*desl. horizontal | desl. vertical | desfoque |cor**/
+  box-shadow:5px 5px 10px black ;
+  
+}
+
+.card2 {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.Kawasaki {
+  background-image: url("img/.Kawasaki");
+}
+
+----------------------------------------------------------------------------------
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #b1afe8;
+  margin: 0;
+  padding: 30px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav a {
+  color: #333333;
+  text-decoration: none;
+}
+
+.cabecalho3 {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.BMW {
+  background-color:rgb(5, 2, 75);
+  width: 220px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.img3 {
+  font-size: 55px;
+  background-color:rgb(5, 2, 75);
+  padding: 20px;
+}
+
+.card3 {
+  display: inline-block;
+  background-color: #8f8e8e;
+  color: rgb(16, 15, 15);
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: auto;
+}
+
+.card3{
+   /*desl. horizontal | desl. vertical | desfoque |cor**/
+  box-shadow:5px 5px 10px black ;
+  
+}
+
+.card3 {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.BMW {
+  background-image: url("img/.BMW");
+}
